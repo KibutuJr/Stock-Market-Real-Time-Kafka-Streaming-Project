@@ -171,8 +171,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
 For any questions, collaboration, or feedback:
 
 - **Email**: [kibutujr@gmail.com](mailto:kibutujr@gmail.com)  
-- **LinkedIn**: [https://www.linkedin.com/in/fred-kibutu/](https://www.linkedin.com/in/fred-kibutu/)  
-- **Portfolio**: [https://kibutujr.github.io/Portfolio-KibutuJr/](https://kibutujr.github.io/Portfolio-KibutuJr/)
-
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fred-kibutu/)  
+- **Portfolio**: [Portfolio](https://kibutujr.github.io/Portfolio-KibutuJr/)
 
 ```
