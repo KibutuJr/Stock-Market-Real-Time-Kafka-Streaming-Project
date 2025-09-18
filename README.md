@@ -172,6 +172,6 @@ For any questions, collaboration, or feedback:
 
 - **Email**: [kibutujr@gmail.com](mailto:kibutujr@gmail.com)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fred-kibutu/)  
-- **Portfolio**: [Portfolio](https://kibutujr.github.io/Portfolio-KibutuJr/)
+- **Portfolio**: [Portfolio](https://kibutujr.vercel.app/)
 
 ```
